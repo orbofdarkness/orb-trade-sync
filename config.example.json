@@ -1,0 +1,4 @@
+{
+  "master":{"login":0,"password":"CHANGE_ME","server":"BROKER"},
+  "slave":{"login":0,"password":"CHANGE_ME","server":"BROKER"}
+}
